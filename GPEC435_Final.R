@@ -25,7 +25,7 @@ cat("SECTION 1: LOAD DATA\n")
 cat("========================================\n\n")
 
 # Load CEPII Gravity data
-gravity <- read_rds("~/Desktop/R Materials/Gravity_V202211.rds")
+gravity <- read_rds(here("data", "Gravity_V202211.rds"))
 
 # Filter to 1995-2020
 cat("Filtering to 1995-2020\n")
