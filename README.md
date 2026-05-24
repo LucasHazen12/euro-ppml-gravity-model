@@ -1,5 +1,5 @@
 # euro-ppml-gravity-model
-DiD and PPML gravity model across 1.4M country-pair observations testing the Euro's effect on bilateral trade. Finds ~16% trade gains for joiner economies early on — gains that collapsed after the 2010 sovereign debt crisis.
+DiD and PPML gravity model across 1.4M country-pair observations testing the Euro's effect on bilateral trade. Finds ~16% trade gains for joiner economies early on, gains that collapsed after the 2010 sovereign debt crisis.
 
 # Euro Currency Union and Bilateral Trade: Evidence from Staggered Adoption, 1995–2020
 
